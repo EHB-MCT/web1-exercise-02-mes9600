@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #eaeceb;
+}
+
+.grijs{
+    color: #8c9197;
+}
+h1{
+    color: #ff5a5c;
+}
+p{
+    color: #8c9197;
+}
+a{
+    background-color: #ff5a5c;
+    padding: 15px;
+    display: inline-block;
+    margin-top: 15px;
+    color: #FFF;
+    text-decoration: none;
+}
